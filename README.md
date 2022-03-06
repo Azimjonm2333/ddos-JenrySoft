@@ -1,5 +1,5 @@
 # ddos-JenrySoft
-ddos сайтов
+# ddos сайтов
 
 `apt-get install git`
 
@@ -7,6 +7,6 @@ ddos сайтов
 
 `cd ddos-JenrySoft`
 
-#Использование
+# Использование
 
 `python3 DDOS.py`
