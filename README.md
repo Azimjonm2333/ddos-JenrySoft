@@ -3,7 +3,7 @@
 
 `apt-get install git`
 
-`https://github.com/Azimjonm2333/ddos-JenrySoft`
+`git clone https://github.com/Azimjonm2333/ddos-JenrySoft`
 
 `cd ddos-JenrySoft`
 
